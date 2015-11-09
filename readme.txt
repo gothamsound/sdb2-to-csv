@@ -5,7 +5,7 @@ This utility is a python script for converting SDB2 files exported from Shure Wi
 
 PLEASE NOTE: By default, "convert.bat" assumes you have added Python to your path. If you have not, you may need to edit the python directory within it to fit your computer's path. To do so, open the batch file and replace "python" with the full path to the Python installation folder (probably "C:/Python[version]").
 
-Also, be sure to check out Gotham Sound's RF Scan Repository at gothamfaxes.com, where you can view UHF scans from around theworld and submit your own in CSV format!
+Also, be sure to check out Gotham Sound's RF Scan Repository at gothamfaxes.com, where you can view UHF scans from around the world and submit your own in CSV format!
 
 
 Will Colding
