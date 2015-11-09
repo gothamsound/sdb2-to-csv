@@ -1,0 +1,1 @@
+python sdb2_to_csv.py %1
